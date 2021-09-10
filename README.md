@@ -4,6 +4,9 @@
 ## I'm a Undergraduate Student, Developer,Software Engineer!!   
 
 - 🔭 I want to be a professional web programmer. 
+- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />]
+- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" />]
+- 
 - 🔭 I am Interested in AI and ML .
 - 🔭 I am Interested in Cloud computing .
 - 🌱 I’m currently learning everything 🤣
