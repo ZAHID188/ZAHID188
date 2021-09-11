@@ -30,6 +30,9 @@ projects
 [instagram]: https://www.instagram.com/zahid34.45/
 [linkedin]: https://www.linkedin.com/in/zahidpranta188/
 
+[![Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZAHID188)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
