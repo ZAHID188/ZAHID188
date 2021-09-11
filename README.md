@@ -30,13 +30,14 @@ projects
 [instagram]: https://www.instagram.com/zahid34.45/
 [linkedin]: https://www.linkedin.com/in/zahidpranta188/
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
- (https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
-</details>
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZAHID188&show_icons=true)](https://github.com/ZAHID188/github-readme-stats)
+
+
+
+
 
 
 
