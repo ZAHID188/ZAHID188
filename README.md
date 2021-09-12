@@ -4,9 +4,9 @@
 ## I'm a Undergraduate Student, Developer,Software Engineer!!   
 
 - 🔭 I want to be a professional web programmer. 
-- <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" /> I'm mostly into Django, Django_Rest and strong javascript framework Vue <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" /> .
+- <img align="left" alt=" django" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" /> I'm mostly into Django, Django_Rest and strong javascript framework Vue <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" /> .
 - 🔭 I am Interested in AI and ML .
-- 🔭 I am Interested in Cloud computing .
+- <img align="left" alt="cloud " width="22px" src="https://p.kindpng.com/picc/s/237-2378960_clipart-clouds-cloud-computing-cloud-iot-png-transparent.png" /> I am Interested in Cloud computing .
 - 🌱 I’m currently learning everything 🤣
 
 - 👯 I’m looking to collaborate with other .
