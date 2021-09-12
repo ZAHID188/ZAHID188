@@ -31,7 +31,7 @@
 
 ---
 
-[![Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZAHID188&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZAHID188&show_icons=true&theme=radical)](https://github.com/ZAHID188/github-readme-stats)
 
 
 
