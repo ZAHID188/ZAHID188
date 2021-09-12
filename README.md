@@ -10,9 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 
 - 👯 I’m looking to collaborate with other .
-- 2021 Goals: Contribute more to Open Source 
-
-projects
+- 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to skate and play guitar
 
 
