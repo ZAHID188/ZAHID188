@@ -27,13 +27,7 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/zahid34.45/
 [linkedin]: https://www.linkedin.com/in/zahidpranta188/
-
-
-
-
-
-
-
+<!--END -->
 ---
 [![Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZAHID188&show_icons=true&theme=radical)](https://github.com/ZAHID188/github-readme-stats)
 
