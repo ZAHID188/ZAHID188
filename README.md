@@ -38,7 +38,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/534/663/png-transparent-net-framework-software-framework-c-microsoft-asp-net-microsoft-blue-angle-text.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/c++.png"></code>    
+<code><img height="20" src="https://w7.pngwing.com/pngs/761/45/png-transparent-professional-python-programmer-computer-programming-android-android-blue-logo-computer-program.png"></code>    
 
 ---
 
