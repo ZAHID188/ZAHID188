@@ -48,7 +48,7 @@
        <br> Django 
      </td>
      <td align="center">
-       <img alt="django" height=64px src="https://www.django-rest-framework.org/img/logo.png">
+       <img alt="django" height=64px src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png">
        <br> Django Rest Framework
      </td>
      <td align="center">
