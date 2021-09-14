@@ -45,11 +45,10 @@
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <br>Javascript
     </td>
-          <td align="center">
-       <img alt="React" height=64px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png">
+      <td align="center">
+       <img alt="Vue" height=64px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png">
        <br> Vue
      </td> 
-
      <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
