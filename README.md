@@ -47,42 +47,40 @@
       <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
        <br> Django 
      </td>
-     <td>
-      <img alt="django" height=64px src="https://www.django-rest-framework.org/img/logo.png">
+     <td align="center">
+       <img alt="django" height=64px src="https://www.django-rest-framework.org/img/logo.png">
        <br> Django Rest Framework
      </td>
+     <td align="center">
+       <img alt="Vue" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+       <br> VueJS
+     </td> 
       <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <br>Javascript
     </td>
-      <td align="center">
-       <img alt="Vue" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-       <br> Vue
-     </td> 
-    </td>
-      <td align="center">
+     <td align="center">
        <img alt="dot net" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/dot-net/dot-net-original.svg">
        <br> Asp.Net(MVC)
-     </td> 
-     <td align="center">
-      <img alt="nginx" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/nginx/nginx-original.svg">
-      <br>Nginx
-    </td>
-    </td>    
-      <td align="center">
-       <img alt="Mysql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-       <br> MySQL
-     </td> 
-       <td align="center">
-       <img alt="Posql" height=64px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png">
-       <br> SQLite
      </td> 
      <td align="center">
        <img alt="vscode" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/java/java-original.svg">
        <br> Java
      </td> 
+     <td align="center">
+      <img alt="nginx" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/nginx/nginx-original.svg">
+      <br>Nginx
+    </td>  
     <td align="center">
-     <img alt="docker" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+       <img alt="Mysql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+       <br> MySQL
+     </td> 
+      <td align="center">
+       <img alt="sqllite" height=64px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png">
+       <br> SQLite
+     </td> 
+    <td align="center">
+     <img alt="GCP" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
       <br> GCP
      </td> 
    </tr>
@@ -90,28 +88,28 @@
     <td align="center">
        <img alt="sql" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/azure/azure-original.svg">
        <br> Azure
-     </td>
-      <td align="center">
+    </td>
+    <td align="center">
        <img alt="bash" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
        <br> Bash
-     </td>
-     <td align="center">
+    </td>
+    <td align="center">
        <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
        <br> Linux
-      </td>
+    </td>
    <td align="center">
        <img alt="putty" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/putty/putty-original.svg">
        <br> Putty
-     </td>
-     <td align="center">
+    </td>
+    <td align="center">
        <img alt="putty" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/ssh/ssh-original.svg">
        <br> SSH
-     </td>
-       <td align="center">
+    </td>
+      <td align="center">
        <img alt="putty" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/vim/vim-original.svg">
        <br> Vim
      </td>
-    <td align="center">
+     <td align="center">
        <img alt="scss" height=64px src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
        <br> SASS
      </td>
@@ -119,8 +117,7 @@
        <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
        <br> Git
      </td>
-        
-     <td align="center">
+    <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
     </td>
