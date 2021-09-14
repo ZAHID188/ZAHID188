@@ -76,7 +76,7 @@
        <br> MySQL
      </td> 
       <td align="center">
-       <img alt="sqllite" height=64px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png">
+       <img alt="sqllite" height=64px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png">
        <br> SQLite
      </td> 
     <td align="center">
