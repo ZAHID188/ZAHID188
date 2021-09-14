@@ -27,10 +27,17 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/zahid34.45/
 [linkedin]: https://www.linkedin.com/in/zahidpranta188/
+
+
 <!--END -->
 
 
+
+
+<br/>
+
 <h2> **Languages and Tools:**  </h2>
+
  <table>
    <tr>
       <td>
