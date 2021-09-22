@@ -126,8 +126,8 @@
        <br> CSS3
      </td>
      <td align="center">
-       <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-       <br> HTML5
+       <img alt="html5" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/csharp/csharp-original.svg">
+       <br> C#
      </td> 
    </tr>
 
