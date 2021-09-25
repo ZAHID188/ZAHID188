@@ -30,12 +30,9 @@
 
 <!--END -->
 
-
-
-
 <br/>
 
-<h2> Languages and Tools: </h2>
+<h2> Languages and Tools:- </h2>
 
  <table>
    <tr>
