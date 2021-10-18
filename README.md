@@ -120,7 +120,7 @@
     </td>
      <td align="center">
        <img alt="css" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-       <br> CSS3
+       <br> CSS
      </td>
      <td align="center">
        <img alt="html5" height=64px src="https://github.com/mypersonalcodes/devicon/blob/master/icons/csharp/csharp-original.svg">
