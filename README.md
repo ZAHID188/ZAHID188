@@ -4,7 +4,6 @@
 ## I'm a Undergraduate Student at Yangzhou University, Developer,Software Engineer !   
 
  - 🔭 I want to be a professional web programmer. 
- - <img align="left" alt=" django" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" /> I'm mostly into Django, Django_Rest and  Vue <img align="left" alt="Vue | Twitter" width="22px" src="https://github.com/mypersonalcodes/devicon/blob/master/icons/vuejs/vuejs-original.svg" /> .
 - 🔭 I am Interested in AI and ML .
 - <img align="left" alt="cloud " width="22px" src="https://github.com/mypersonalcodes/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />I am Interested in Cloud computing .
 -🌱 I’m currently learning everything.
