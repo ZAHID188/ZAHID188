@@ -1,7 +1,7 @@
 ## Hi there, I'm Zahidul Alam  [zahidpranta][website]
 
 
-## I'm a Undergraduate Student at Yangzhou University, Developer,Software Engineer !   
+## Developer,Software Engineer !   
 
  - 🔭 I want to be a professional web programmer. 
 - 🔭 I am Interested in AI and ML .
