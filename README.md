@@ -3,13 +3,11 @@
 
 ## Developer,Software Engineer !   
 
- - 🔭 I want to be a professional web programmer. 
-- 🔭 I am Interested in AI and ML .
-- <img align="left" alt="cloud " width="22px" src="https://github.com/mypersonalcodes/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />I am Interested in Cloud computing .
--🌱 I’m currently learning everything.
+ - 🔭 I am a web programmer. 
+- 🔭 I am working with Reinforcement learning .
+- <img align="left" alt="cloud " width="22px" src="https://github.com/mypersonalcodes/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" /> I am doing Research on Software defined Wireless network .
 
 - 👯 I’m looking to collaborate with other.
-- 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to skate and play guitar
 
 
