@@ -1,7 +1,7 @@
-## Hi there, I'm Zahidul Alam  [zahidpranta][website]
+## Hi there, I'm Zahidul Alam >> [website][website]
 
 
-## Developer,Software Engineer !   
+## Researcher, Developer !   
 
  - 🔭 I am a web programmer. 
 - 🔭 I am working with Reinforcement learning .
@@ -18,7 +18,7 @@
 [<img align="left" alt="ZAHID's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[website]: https://zahidpranta.xyz
+[website]: [https://zahid188.github.io/pfm3]
 [twitter]: https://twitter.com/Zahid3445
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/zahid34.45/
