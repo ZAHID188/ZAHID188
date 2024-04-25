@@ -1,4 +1,4 @@
-## Hi there, I'm Zahidul Alam >> [website][website]
+## Hi there, I'm Zahidul Alam 
 
 
 ## Researcher, Developer !   
