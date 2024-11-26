@@ -1,14 +1,8 @@
-## Hi there, I'm Zahidul Alam 
-
-
-## Researcher, Developer !   
-
- - 🔭 I am a web programmer. 
-- 🔭 I am working with Reinforcement learning .
+## Hellow, I'm Zahidul Alam, a researcher and developer specializing in web programming and reinforcement learning
 - <img align="left" alt="cloud " width="22px" src="https://github.com/mypersonalcodes/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" /> I am doing Research on Software defined Wireless network .
 
 - 👯 I’m looking to collaborate with other.
-- ⚡ Fun fact: I love to skate and play guitar
+- ⚡ Fun fact: I love to play guitar sing songs.
 
 
 [<img align="left" alt="zahidpranta.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
