@@ -1,4 +1,4 @@
-## Hellow, I'm Zahidul Alam, a researcher and developer specializing in web programming and reinforcement learning
+## HI, I'm Zahidul Alam, a researcher and developer specializing in web programming and reinforcement learning
 - <img align="left" alt="cloud " width="22px" src="https://github.com/mypersonalcodes/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" /> I am doing Research on Software defined Wireless network .
 
 - 👯 I’m looking to collaborate with other.
