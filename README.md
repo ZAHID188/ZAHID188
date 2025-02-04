@@ -1,23 +1,6 @@
-## HI, I'm Zahidul Alam, a researcher and developer specializing in web programming and reinforcement learning
-- <img align="left" alt="cloud " width="22px" src="https://github.com/mypersonalcodes/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" /> I am doing Research on Software defined Wireless network .
-
-- 👯 I’m looking to collaborate with other.
-- ⚡ Fun fact: I love to play guitar sing songs.
-
-
-[<img align="left" alt="zahidpranta.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="ZAHID's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ZAHID's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ZAHID's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[website]: [https://zahid188.github.io/pfm3]
-[twitter]: https://twitter.com/Zahid3445
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/zahid34.45/
-[linkedin]: https://www.linkedin.com/in/zahidpranta188/
-
+## HI, I'm Zahidul Alam, a researcher and Web Application developer.
+- I am doing Research on Software defined Wireless network, Deep reinforcement Learning(DQL)
+- I’m looking to collaborate with other.
 
 <!--END -->
 
