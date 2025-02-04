@@ -1,6 +1,7 @@
 ## HI, I'm Zahidul Alam, a researcher and Web Application developer.
 - I am doing Research on Software defined Wireless network, Deep reinforcement Learning(DQL)
-- I’m looking to collaborate with other.
+- I’m looking forward to collaborate with others.
+
 
 <!--END -->
 
