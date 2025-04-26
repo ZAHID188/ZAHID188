@@ -1,8 +1,3 @@
-## Zahidul Alam, a researcher and Web Application developer.
-- I am doing Research on Software defined Wireless network, Deep reinforcement Learning(DQL)
-- I’m looking forward to collaborate with others.
-Researcher & Web Application Developer
-
 ## 🔬 Research Focus:
 
 - Software-Defined Wireless Networks (SDWN)
