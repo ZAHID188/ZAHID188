@@ -10,9 +10,9 @@
 
 - Integration of AI/ML in networking
 
-🤝 Collaboration Interests:
+## Collaboration Interests:
 
-- Open to academic/industry collaborations in DRL, and Reinforcement learning driven projects.
+ - Open to academic/industry collaborations in DRL, and Reinforcement learning driven projects.
 
 <!--END -->
 
